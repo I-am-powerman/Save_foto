@@ -1,4 +1,4 @@
-#!/home/dmitrii/Документы/Proekti/Project_throwing_photos/myenv/bin/python3
+#!/home/dmitrii/Документы/Proekti/Save_foto/myenv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
